@@ -579,7 +579,7 @@ struct CommunityCard: View {
             Link(destination: URL(string: "https://zalo.me/g/pqwgoje0r5fnqylcw9y0")!) {
                 HStack {
                     Image(systemName: "bell.badge.fill")
-                    Text("C?ng d?ng th�ng b�o c?p nh?t")
+                    Text("Cộng đồng thông báo cập nhật")
                         .font(.system(size: 14, weight: .bold, design: .rounded))
                     Spacer()
                     Image(systemName: "chevron.right")
